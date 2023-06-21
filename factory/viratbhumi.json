@@ -1,0 +1,9 @@
+{
+	"name": "viratbhumi",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "799bd689-ca57-460a-bb0c-3371d419acad",
+		"tenantId": "60176540-28ca-4ca1-bda4-ea4164363653"
+	}
+}
